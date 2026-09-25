@@ -3,22 +3,22 @@ VERSION:2.0
 PRODID:-//Sport in TV//IT
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Sport in TV · Lorenzo Sonego
+X-WR-CALNAME:Sport in TV · Maja Chwalinska
 X-WR-TIMEZONE:Europe/Rome
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:8f22dd9b56eae5af@sport-in-tv
+UID:8ed9e022157c1be7@sport-in-tv
 DTSTAMP:20260925T161111Z
-DTSTART:20260925T051500Z
-DTEND:20260925T071500Z
-SUMMARY:🎾 Sonego – Brooksby
-DESCRIPTION:ATP Chengdu Open · 2° turno\nDove vederlo: Sky Go / NOW o Sup
- erTennix
+DTSTART:20260926T100000Z
+DTEND:20260926T115000Z
+SUMMARY:🎾 Chwalinska – Fernandez
+DESCRIPTION:WTA Singapore Tennis Open presented by BNP Paribas · Semifinal
+ e\nDove vederlo: Sky Go / NOW o SuperTennix
 LOCATION:📺 Sky Go / NOW o SuperTennix
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Sonego – Brooksby
+DESCRIPTION:Chwalinska – Fernandez
 TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
