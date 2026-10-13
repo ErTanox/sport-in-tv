@@ -9,13 +9,12 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:0701100461d8b781@sport-in-tv
-DTSTAMP:20261013T051044Z
+DTSTAMP:20261013T111304Z
 DTSTART:20261012T104000Z
 DTEND:20261012T123000Z
 SUMMARY:🎾 Yesypchuk – Encheva
-DESCRIPTION:WTA Vanda Pharmaceuticals Mallorca Women's Championships presen
- ted by Ecotrans Group · Qualifying Final\nDove vederlo: Sky / NOW · Supe
- rTennix
+DESCRIPTION:WTA Vanda Pharmaceuticals Mallorca Women's Championships · Qua
+ lifying Final\nDove vederlo: Sky / NOW · SuperTennix
 LOCATION:📺 Sky / NOW · SuperTennix
 BEGIN:VALARM
 ACTION:DISPLAY
